@@ -21,7 +21,7 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <start-class>com.lavender.Send</start-class>
+    <start-class>com.lavender.ProducerApp</start-class>
   </properties>
 
 </project>
